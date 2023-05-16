@@ -7,7 +7,11 @@ header {
     background-color: #BBBBBB;
     padding: 20px 0;
 }
-
+.scroll{
+    display: flex;
+    overflow-x: scroll;
+    flex-direction: column;
+  }
 .caja {
     position: relative;
     width: 940px;
@@ -30,7 +34,7 @@ nav a {
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 20px;
     text-decoration: none;
 }
 
@@ -39,6 +43,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
+  
 .productos {
     width: 940px;
     margin: 0 auto;
