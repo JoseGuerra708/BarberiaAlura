@@ -86,7 +86,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url(/HTML5CSS3/PrimeraPagina/img/bg.jpg);
+    background: url(/HTML5CSS3/img/bg.jpg);
     padding: 40px;
 }
 
@@ -97,7 +97,7 @@ footer {
 }
 
 form {
-    margin: 40px 0;
+    margin: 40px 0 0 15px
 }
 
 form label,
